@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devnomanaslam
+- 👋 Hi, I’m Noman Aslam. @devnomanaslam
 - 👀 I’m interested in Software engineering :)
 - 🌱 I’m currently learning next js + three js
 - 💞️ I’m looking to collaborate on interesting projects
