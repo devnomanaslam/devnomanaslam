@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noman Aslam. @devnomanaslam
-- 👀 I’m interested in Software engineering :)
-- 🌱 I’m currently learning next js + three js
-- 💞️ I’m looking to collaborate on interesting projects
+- 👀 I’m interested in Software development :)
+- 🌱 I’m currently learning Artificial Intelligence
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: www.nomanaslam.com
 
 <!---
