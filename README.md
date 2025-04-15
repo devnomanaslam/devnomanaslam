@@ -28,7 +28,7 @@
   <a href="https://stackoverflow.com/users/22285621/devnomanaslam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01747b941f1b99af96" target="_blank">
+  <a href="https://www.upwork.com/freelancers/devnomanaslam" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="Upwork" height="35" width="40" />
   </a>
   <a href="https://www.fiverr.com/noman3839" target="_blank">
