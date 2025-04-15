@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/devnomanaslam/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/22285621/devnomanaslam" target="_blank">
+  <a href="https://stackoverflow.com/users/23155998/noman-aslam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
   <a href="https://www.upwork.com/freelancers/devnomanaslam" target="_blank">
