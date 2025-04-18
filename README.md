@@ -1,79 +1,81 @@
-<h1 align="center">Hi 👋, I'm Noman Aslam</h1>
-<h3 align="center">A Full-Stack Web Developer specializing in Office Add-ins, JavaScript Frameworks, and Modern UI Development</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devnomanaslam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devnomanaslam&theme=flat" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Noman+Aslam;Full-Stack+Developer;Office+Add-ins+Specialist;AI+Integration+Expert" alt="Animated Typing Header" />
+</div>
 
 ---
 
-- 🔭 Currently working on **Office Add-ins**, **VSTO**, **Power Platform**, and **AI-integrated tools**
-- 🌱 Always learning **emerging web technologies**, **cybersecurity**, and **ethical hacking**
-- 💬 Ask me about: **React**, **Vue**, **Office.js**, **TypeScript**, **Node.js**, **.NET**
-- 📫 Reach me at: **nomanaslam.it@gmail.com**
-- ⚡ Fun fact: **I bring code and creativity together (and yes, I think I'm funny 😄)**
+### 🚀 Core Competencies
+- **Office Solutions**: Office Add-ins • VSTO • Office.js • Power Platform Integrations
+- **Frontend Architecture**: React • Vue • TypeScript • Modern UI/UX
+- **Cloud & Backend**: Node.js • .NET Core • REST APIs • Serverless Functions
+- **Emerging Tech**: AI Integration • Process Automation • CI/CD Pipelines
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+### ⚡️ Dynamic Profile Metrics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/devnomanaslam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/23155998/noman-aslam" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/devnomanaslam" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="Upwork" height="35" width="40" />
-  </a>
-  <a href="https://www.fiverr.com/noman3839" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="35" width="40"/>
-  </a>
-</p>
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=devnomanaslam&theme=github-dark&border_radius=6&mode=weekly)
+  
+  ![Noman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnomanaslam&show_icons=true&theme=github_dark&hide_title=true&include_all_commits=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnomanaslam&layout=compact&theme=github_dark&langs_count=6&hide_title=true)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=devnomanaslam&theme=onedark&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+### 🛠️ Technical Arsenal
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
+#### **Frontend & UI**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+
+#### **Backend & Cloud**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+
+#### **Office Ecosystem**
+![Office Add-ins](https://img.shields.io/badge/-Office_Add--ins-D83B01?logo=microsoft-office&logoColor=white)
+![Power Platform](https://img.shields.io/badge/-Power_Platform-742774?logo=power-platform&logoColor=white)
+![VSTO](https://img.shields.io/badge/-VSTO-5E2CAC?logo=.net&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white)
+
+#### **Databases**
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/-Cosmos_DB-002050?logo=azure-cosmos-db&logoColor=white)
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 🌐 Professional Network
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devnomanaslam&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnomanaslam/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/devnomanaslam)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23155998/noman-aslam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanaslam.it@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devnomanaslam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+---
+
+### 💡 Recent Initiatives
+- **AI-Powered Office Tools**: Developing intelligent document processors using Azure AI
+- **Productivity Suite**: Building cross-platform Office Add-ins for enterprise workflows
+- **DevOps Integration**: Implementing CI/CD pipelines for Office solution deployments
+- **Open Source Contributions**: Maintaining Office.js utility libraries
+
+---
+
+### 📈 Activity Graph
+[![Noman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devnomanaslam&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <!-- SEO Keywords -->
-<p align="center"><em>Keywords: Office Add-ins Developer, React Developer, TypeScript Expert, Full Stack Engineer, Node.js Backend, Office.js Specialist, PowerPoint Add-in, Outlook VSTO, Excel Custom Functions, Freelance Web Developer, JavaScript Automation</em></p>
+<!-- Office Add-ins Developer | React TypeScript Expert | Full Stack Web Developer | Office.js Specialist | VSTO Developer | Microsoft 365 Solutions Architect | AI Integration Engineer | Enterprise Software Developer | Power Platform Consultant | Node.js Backend Developer -->
