@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Noman+Aslam;Full-Stack+Developer;Office+Add-ins+Specialist;AI+Integration+Expert" alt="Animated Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Noman+Aslam;Full-Stack+Developer;Office+Add-ins+Specialist;AI+Integration+Expert" alt="Animated Typing Header - Noman Aslam" />
 </div>
 
 ---
@@ -7,7 +7,7 @@
 ### 🚀 Core Competencies
 - **Office Solutions**: Office Add-ins • VSTO • Office.js • Power Platform Integrations
 - **Frontend Architecture**: React • Vue • TypeScript • Modern UI/UX
-- **Cloud & Backend**: Node.js • .NET Core • REST APIs • Serverless Functions
+- **Cloud & Backend**: Node.js/Express.js • .NET Core • Python • REST APIs • Serverless Functions
 - **Emerging Tech**: AI Integration • Process Automation • CI/CD Pipelines
 
 ---
@@ -68,7 +68,7 @@
 - **AI-Powered Office Tools**: Developing intelligent document processors using Azure AI
 - **Productivity Suite**: Building cross-platform Office Add-ins for enterprise workflows
 - **DevOps Integration**: Implementing CI/CD pipelines for Office solution deployments
-- **Open Source Contributions**: Maintaining Office.js utility libraries
+<!--- **Open Source Contributions**: Maintaining Office.js utility libraries-->
 
 ---
 
