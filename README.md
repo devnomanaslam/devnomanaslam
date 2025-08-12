@@ -12,19 +12,7 @@
 
 ---
 
-### ⚡️ Dynamic Profile Metrics
 
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=devnomanaslam&theme=github-dark&border_radius=6&mode=weekly)
-  
-  ![Noman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnomanaslam&show_icons=true&theme=github_dark&hide_title=true&include_all_commits=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnomanaslam&layout=compact&theme=github_dark&langs_count=6&hide_title=true)
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=devnomanaslam&theme=onedark&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
