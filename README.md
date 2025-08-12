@@ -12,10 +12,6 @@
 
 ---
 
-
-
----
-
 ### 🛠️ Technical Arsenal
 
 #### **Frontend & UI**
